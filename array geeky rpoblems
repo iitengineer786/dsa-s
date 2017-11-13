@@ -3,28 +3,28 @@ Simple Array Problems:
 
     Reversal algorithm for array rotation
     Block swap algorithm for array rotation
-    Find maximum value of Sum( i*arr[i]) with only rotations on given array allowed
-    Maximum sum of i*arr[i] among all rotations of a given array
-    Find the Rotation Count in Rotated Sorted array
-    Quickly find multiple left rotations of an array
-    Find the minimum element in a sorted and rotated array
+   // Find maximum value of Sum( i*arr[i]) with only rotations on given array allowed
+   // Maximum sum of i*arr[i] among all rotations of a given array
+    //Find the Rotation Count in Rotated Sorted array
+   // Quickly find multiple left rotations of an array
+    //Find the minimum element in a sorted and rotated array
 
 
 Arrangement Rearrangement :
 
     Rearrange positive and negative numbers in O(n) time and O(1) extra space
-    Write a program to reverse an array or string
-    Sort an array in wave form
-    Rearrange positive and negative numbers with constant extra space
-    Sort an array according to absolute difference with given value
-    Move all negative elements to end in order with extra space allowed
-    Three way partitioning of an array around a given range
-    Rearrange an array in maximum minimum form | Set 1
-    Rearrange an array in maximum minimum form | Set 2 (O(1) extra space)
-    Maximum Length Bitonic Subarray
-    Maximize sum of consecutive differences in a circular array
-    Alternative Sorting
-    Segregate 0s and 1s in an array
+    //Write a program to reverse an array or string
+    //Sort an array in wave form
+   // Rearrange positive and negative numbers with constant extra space
+    /*Sort an array according to absolute difference with given value**/ -------------> tree/map
+    //Move all negative elements to end in order with extra space allowed
+    //Three way partitioning of an array around a given range
+    //Rearrange an array in maximum minimum form | Set 1
+    //Rearrange an array in maximum minimum form | Set 2 (O(1) extra space)
+    //Maximum Length Bitonic Subarray
+    //Maximize sum of consecutive differences in a circular array
+    //Alternative Sorting
+    //Segregate 0s and 1s in an array
     Segregate Even and Odd numbers
     Longest Bitonic Subsequence
     Find a sorted subsequence of size 3 in linear time
